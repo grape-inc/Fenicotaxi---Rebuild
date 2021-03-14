@@ -4,5 +4,5 @@
 
 ## Built With
 
-* [Laravel]
-* [PostgreeSQL]
+* Laravel
+* PostgreeSQL
