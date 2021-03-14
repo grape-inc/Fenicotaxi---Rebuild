@@ -5,4 +5,4 @@
 ## Built With
 
 * [Laravel]
-* [PostgreeSQL](https://maven.apache.org/) - Dependency Management
+* [PostgreeSQL]
